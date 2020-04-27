@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16464" started-at="2020-03-27T11:46:35 IST" finished-at="2020-03-27T11:46:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16464" started-at="2020-03-27T11:46:35 IST" finished-at="2020-03-27T11:46:52 IST">
+      <class name="wipro_demo_qa.QademoSelectable">
+        <test-method status="PASS" signature="initializeSetup()[pri:0, instance:wipro_demo_qa.QademoSelectable@28c4711c]" name="initializeSetup" is-config="true" duration-ms="12547" started-at="2020-03-27T11:46:35 IST" finished-at="2020-03-27T11:46:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeSetup -->
+        <test-method status="PASS" signature="getAllElementsAndNames()[pri:0, instance:wipro_demo_qa.QademoSelectable@28c4711c]" name="getAllElementsAndNames" duration-ms="2261" started-at="2020-03-27T11:46:48 IST" finished-at="2020-03-27T11:46:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllElementsAndNames -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:0, instance:wipro_demo_qa.QademoSelectable@28c4711c]" name="verifyPageTitle" duration-ms="38" started-at="2020-03-27T11:46:50 IST" finished-at="2020-03-27T11:46:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:wipro_demo_qa.QademoSelectable@28c4711c]" name="tearDown" is-config="true" duration-ms="1441" started-at="2020-03-27T11:46:50 IST" finished-at="2020-03-27T11:46:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- wipro_demo_qa.QademoSelectable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
